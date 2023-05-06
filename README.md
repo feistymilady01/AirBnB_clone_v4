@@ -179,7 +179,7 @@ No known bugs at this time.
 ## Authors
 
 Susan Bamgbade - [Github](https://github.com/feistymilady01) / [Twitter](https://twitter.com/Pblinks2)
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Jennifer Huang - [Github](https://github.com/Christinaty) / [Twitter](https://twitter.com/toyinsays)
 
 ## License
 
